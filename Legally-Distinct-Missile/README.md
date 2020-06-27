@@ -11,4 +11,4 @@ this is a guide for making plugins in unturned for the more noobs in C#.
 
 ## Getting started
 first you need to clone a project from someone else. i made a list here from projects that you can use i recommand using any iceplugins.
-In visual studio you can press Clone a repository 
+In visual studio you can press Clone a repository ![clone pic](/images/afbeelding.png)
